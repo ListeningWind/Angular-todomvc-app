@@ -1,0 +1,1 @@
+直接git clone后，运行index.html即可
